@@ -5,5 +5,5 @@ ___
 * [Raw Data](./Final_Projek.inate.xlsx)
 * [Code](./Final_Project.ipynb)
 * [Clean Data](./data_finals.xlsx)
-* [Deck Presentasi](./Presentation_Deck.pdf)
+* [Presentation Deck](./Presentation_Deck.pdf)
 * [Dashboard Tableau](./Dashboard.md)
