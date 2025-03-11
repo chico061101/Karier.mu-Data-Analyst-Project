@@ -1,6 +1,7 @@
 # Analysis of Cognitive Ability Test Performance on the Exam.inate Platform
-Projek Data Analyst ini dilakukan setelah mendapatkan pengalaman belajar analisis data dari kegiatan Studi Independen MSIB di tahun 2023 bersama Karier.mu.
-Tugas saya dan kelompok pada projek dummy ini adalah melakukan cleaning data serta EDA (Exploratory Data Analysis) sehingga memberikan insight yang dapat menjawab pertanyaan-pertanyaan yang diajukan oleh para stakeholder.
+This Data Analyst project was conducted after gaining experience in data analysis through the Studi Independen MSIB program in 2023 with Karier.mu.
+
+My team and I worked on this dummy project by performing data cleaning and Exploratory Data Analysis (EDA) to generate insights that address the key questions posed by stakeholders.
 ___
 * [Raw Data](./Final_Projek.inate.xlsx)
 * [Code](./Final_Project.ipynb)
