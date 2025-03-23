@@ -3,8 +3,8 @@ This Data Analyst project was conducted after gaining experience in data analysi
 
 My team and I worked on this dummy project by performing data cleaning and Exploratory Data Analysis (EDA) to generate insights that address the key questions posed by stakeholders.
 ___
-* [Raw Data](./Final_Projek.inate.xlsx)
-* [Code](./Final_Project.ipynb)
-* [Clean Data](./data_finals.xlsx)
-* [Presentation Deck](./Presentation_Deck.pdf)
-* [Dashboard Tableau](./Dashboard.md)
+* [Raw Data](./raw_data.xlsx)
+* [Code](./karier-mu_project.ipynb)
+* [Clean Data](./cleaned_data.xlsx)
+* [Presentation Deck](./Presentation_Deck_Kariermu.pdf)
+* [Dashboard Tableau](./tableau_dashboard.png)
